@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iEwuvygvlwPSooiOnGrzwYTv05CSUJfQ01aXYQ4bxoHsO8ouG/0zJ1xhrOcajmNl6atAJYgH2mRSg/32MdBRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gmoalla_mantu\\source\\repos\\Supermarket\\Supermarket\\Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
