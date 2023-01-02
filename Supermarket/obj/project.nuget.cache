@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+iEwuvygvlwPSooiOnGrzwYTv05CSUJfQ01aXYQ4bxoHsO8ouG/0zJ1xhrOcajmNl6atAJYgH2mRSg/32MdBRg==",
+  "dgSpecHash": "W6MxWB9vUoZWPUWjPz+m5j6UbcL/MOKXNw08NVJNYPhXe40yzglaQHAlEuVtMP7R1hPr+0EiURbwflEbISHscA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gmoalla_mantu\\source\\repos\\Supermarket\\Supermarket\\Supermarket.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,10 @@
 using Supermarket;
-
+using Microsoft.ApplicationInsights.Extensibility;
+using CustomInitializer.Telemetry;
+ void ConfigureServices(IServiceCollection services)
+{
+    services.AddSingleton<ITelemetryInitializer, MyTelemetryInitializer>();
+}
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
